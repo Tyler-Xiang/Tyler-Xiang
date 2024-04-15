@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Tyler-Xiang
-- 👀 I’m interested in Civil Engineering
-- 🌱 I’m currently learning Bayesian Inference
-- 💞️ I’m looking to collaborate on ...
+- 👀 I major in Civil Engineering in TJU, focus on the Inspection and Reinforcement of RC Structures.
+- 🌱 I’m currently learning Bayesian Inference to predict the bending capacity of the existing RC beams.
 - 📫 if you want to contact me, feel free to mail xiang2054161@gmail.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Magic & Riding & Cooking
 
 <!---
 Tyler-Xiang/Tyler-Xiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
